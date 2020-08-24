@@ -49,3 +49,51 @@ Doing this allows for speed limiting to become an option.
 
 ## Folders Tab
 
+### Temporary Download Folder, Completed Download Folder, Watched Folder
+
+Set all three to your largest disk volume that is fast and large enough for file storage.
+
+### Watched Folder Scan Speed
+
+Set to: 2
+
+### .nzb Backup Folder
+
+Set it to a folder, preferrably cloud synced.
+
+## Switches Tab
+
+### Check before download
+
+Recommended: Tick this checkbox if you prefer a basic availability test to be done before each download is attempted.
+
+### Unwanted extensions
+
+Setting this option helps avoid any potential viruses, malware etc on usenet.
+
+Set this to a list of file types you never want to download on purpose. I recommend:
+
+` bat, cmd, com, db, dll, doc, docm, docx, exe, gif, hta, htm, html, idx, inf, info, ini, jar, js, jse, lnk, md5, nfo, nzb, pdf, png, ps1, ps2, py, scf, scr, sfv, sfx, srr, sub, tmp, txt, url, vb, vbe, vbs, jpg, jpeg `
+
+### Direct Unpack
+
+Tick this checkbox to improve unpack times.
+
+### Ignore Samples
+
+Tick this checkbox to ignore sample files.
+
+### Cleanup List
+
+Set this to a list of file types you want to remove after a download completes. I recommend:
+
+` bat, cmd, com, db, dll, doc, docm, docx, exe, gif, hta, htm, html, idx, inf, info, ini, jar, js, jse, lnk, md5, nfo, nzb, pdf, png, ps1, ps2, py, scf, scr, sfv, sfx, srr, sub, tmp, txt, url, vb, vbe, vbs, jpg, jpeg `
+
+## Scheduling Tab
+
+You can schedule actions for sabnzbd on this tab.
+
+
+
+
+Thanks for reading 😁
