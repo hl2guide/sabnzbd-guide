@@ -25,7 +25,7 @@ Click the "Save Changes" button after each section in the interface.
 
 ### SABnzbd Host
 
-Set it to 0.0.0.0
+Set it to: 0.0.0.0
 
 Meaning "this PC".
 
@@ -39,17 +39,17 @@ Set it to a unique name that you remember (avoid "admin" or similar).
 
 ### SABnzbd Password
 
-Set it to a complex password and record it in a password manager (like LastPass) or similar.
+Set it to a complex password and record it and the username in a password manager (like LastPass) or similar.
 
 ### Maximum line speed
 
-Set this to the very maximum speed your internet can download files (test using speedtest.net or similar).
+Set this to the very maximum speed your internet can download files (test using https://www.speedtest.net or similar).
 
 Doing this allows for speed limiting to become an option.
 
 ## Folders Tab
 
-### Temporary Download Folder, Completed Download Folder, Watched Folder
+### Temporary Download Folder, Completed Download Folder and Watched Folder
 
 Set all three to your largest disk volume that is fast and large enough for file storage.
 
