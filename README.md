@@ -65,7 +65,9 @@ Set it to a folder, preferrably cloud synced.
 
 ### Check before download
 
-Recommended: Tick this checkbox if you prefer a basic availability test to be done before each download is attempted.
+Tick this checkbox if you prefer a basic availability test to be done before each download is attempted.
+
+(Increases the download time, I leave it unchecked)
 
 ### Unwanted extensions
 
