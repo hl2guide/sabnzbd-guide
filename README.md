@@ -4,6 +4,8 @@ This guide contains useful tips for sabnzbd that you may or may not know already
 
 Most tips are extra steps that improve security or usability.
 
+🥶 The repo is archived, I don't expect to do more work on it.
+
 ## Preparation
 
 To download sabnzbd visit: https://www.sabnzbd.org
